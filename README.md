@@ -15,5 +15,3 @@ A simple **Currency Converter Web App** built with **HTML, CSS, and JavaScript**
 - **JavaScript (Vanilla JS)** – Logic and API handling  
 - **Font Awesome** – Icons  
 - **FlagsAPI** – To fetch country flags  
-
-## 📂 Project Structure  
